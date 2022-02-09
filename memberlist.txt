@@ -1,0 +1,35 @@
+ID_NO :  = 101
+NAME:  = ADEBAYO BOLUWATIFE OLUMIDE
+MOBILE NUMBER:  = 
+DATE OF BIRTH:  = 23/4/2004
+Email Address: = HARDEHBAHYOR1@GMAIL.COM
+RESIDENTIAL ADDRESS: = EACOED OYO, NIGERIA
+MARITAL STATUS: = SINGLE
+STATE OF ORIGIN: = KWARA STATE
+LOCAL GOVERNMENT AREA: = EKITI LGA
+HOME TOWN: = OSI EKITI
+
+	        ****NEXT OF KIN INFROMATION**** 
+
+Name: = ADEBAYO OLUWASEYI
+Email Address: = oladimejioluwaseyi@gmail.com
+Mobile Number: = 123456789
+Occupation: = Student
+Relationship: = brother
+Residential Address: = ibadan, Oyo State
+
+Name: = AAdebaye Emmanuel
+Email Address: = oemmanuel12@gmail.com
+Mobile Number: = 1123456789
+Occupation: = SStudent
+Relationship: = bBrother
+Residential Address: = iIbadan, oyo state
+
+             ****BANK ACCOUNT DETAILS****  
+
+
+ Bank Name = Fidelity Bank
+Account TYpe = Savings
+Account Name = Adebayo Boluwatife Olumide
+Account No = 0483822693
+
